@@ -1,195 +1,183 @@
-<h1 align="center">
 Hi 👋, I'm Abhishek Kumar Maury
-</h1>
-
-<h3 align="center">
-Cyber Security Enthusiast • SOC Analyst • IT Support Engineer
-</h3>
+Aspiring Data Engineer | Cloud Engineer | Python & SQL Developer
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=SOC+Analyst;IT+Support+Engineer;Blue+Team+Security;Windows+%26+Linux+Administrator;Network+Security;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=23&duration=3500&pause=1000&color=00C853&center=true&vCenter=true&width=900&lines=Data+Engineering;Cloud+Engineering;Python+%26+SQL+Development;Building+ETL+Data+Pipelines;AWS+Cloud+Solutions;Turning+Raw+Data+Into+Insights" />
 </p>
 
----
+🚀 About Me
 
-# 🛡 About Me
+💻 Passionate about Data Engineering, Cloud Computing, and Data Infrastructure.
 
-💻 Passionate about Cyber Security, Blue Team Operations, and IT Infrastructure.
+🐍 Experienced in Python programming and continuously improving my skills in SQL, database management, and data processing.
 
-🛡️ Interested in Security Monitoring, Incident Response, Threat Detection, Windows Administration, Linux Administration, and Network Troubleshooting.
+☁️ Interested in designing cloud-based solutions using AWS, data storage, and cloud infrastructure.
 
-🖥️ Building practical Home Lab projects using Wazuh, Splunk, Windows, Linux, and Cisco Packet Tracer.
+⚙️ Building practical projects involving ETL pipelines, data integration, workflow automation, and cloud data platforms.
 
-🚀 Continuously improving my skills in SOC Operations, Networking, SIEM, and System Administration.
+📊 Interested in transforming raw data into clean, structured, and meaningful information.
 
-🎯 Seeking opportunities as a **SOC Analyst**, **IT Support Engineer**, or **Service Desk Analyst**.
+🎓 MCA Student | BCA Graduate
 
----
+🎯 Currently focused on becoming a Data Engineer / Cloud Engineer and building reliable, scalable data solutions.
 
-# 🌐 Connect With Me
+🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/abhishek-kmaury96/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:avikma9621@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<a href="https://github.com/github.com/avi-9621">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/avi-9621">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
----
+💻 Technical Skills
+🐍 Programming Languages
 
-# 💻 Technical Skills
-
-### 🛡 Cyber Security
-
-![Wazuh](https://img.shields.io/badge/Wazuh-0052CC?style=for-the-badge)
-
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk)
-
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
-
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-
-![Burp Suite](https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge)
-
----
-
-### 🖥 Operating Systems
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
-
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux)
-
----
-
-### 🌐 Networking
-
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco)
-
-![TCP/IP](https://img.shields.io/badge/TCP/IP-0078D4?style=for-the-badge)
-
-![DNS](https://img.shields.io/badge/DNS-0052CC?style=for-the-badge)
-
-![DHCP](https://img.shields.io/badge/DHCP-009688?style=for-the-badge)
-
-![VPN](https://img.shields.io/badge/VPN-5C2D91?style=for-the-badge)
-
----
-
-### 🛠 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![Cisco Packet Tracer](https://img.shields.io/badge/PacketTracer-1BA0D7?style=for-the-badge)
-
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox)
-
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware)
-
----
-
-# 🚀 Featured Projects
-
-## 🛡 SOC Projects
-
-- Home SOC Lab using Wazuh
-- Splunk Log Analysis Dashboard
-- Malware Traffic Analysis
-- Phishing URL Detection
-- Windows Event Log Monitoring
-- Incident Response Playbook
-
----
-
-## 🖥 IT Support Projects
-
-- Windows Troubleshooting Lab
-- Network Troubleshooting Lab
-- Active Directory Lab
-- Help Desk Ticket Management System
-- PowerShell Automation Scripts
-- Cisco Packet Tracer Labs
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=github.com/avi-9621&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=github.com/avi-9621&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
----
+🗄️ Data Engineering & Databases
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=github.com/avi-9621/&theme=tokyonight&hide_border=true"/>
-
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+<img src="https://img.shields.io/badge/Parquet-50ABF1?style=for-the-badge"/>
 </p>
 
----
+☁️ Cloud Computing – AWS
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=github.com/avi-9621&theme=tokyo-night"/>
-
+<p>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_IAM-DD344C?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
+🛠️ DevOps & Development Tools
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=github.com/avi-9621&theme=algolia&no-frame=true&margin-w=15"/>
-
+<p>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Boto3-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 </p>
 
----
+🚀 Featured Projects
+🟢 Beginner Projects
+1. E-commerce Sales Data Pipeline
 
-# 🎯 2026 Goals
+Technologies: Python, Pandas, PostgreSQL, SQL
 
-✅ Build a Production-Level Home SOC
+Developed a data processing pipeline for e-commerce sales data.
+Cleaned and transformed raw CSV datasets.
+Removed duplicate records and handled missing values.
+Stored structured data in PostgreSQL.
+Created SQL queries for revenue and sales analysis.
+2. Weather Data Ingestion Pipeline
 
-✅ Master Wazuh & Splunk
+Technologies: Python, REST API, JSON, PostgreSQL, AWS S3
 
-✅ Complete 10+ Blue Team Projects
+Collected weather information using REST APIs.
+Extracted and transformed JSON responses.
+Stored structured weather records in PostgreSQL.
+Implemented error handling and duplicate prevention.
+Integrated AWS S3 for cloud-based data storage.
+3. AWS Cloud File Backup System
 
-✅ Learn Active Directory Administration
+Technologies: Python, AWS S3, IAM, Boto3, AWS CLI
 
-✅ Improve Windows & Linux Troubleshooting Skills
+Developed a Python-based cloud file upload and backup solution.
+Automated file uploads and downloads using Boto3.
+Organised files using S3 bucket structures.
+Implemented secure access using IAM permissions.
+Explored S3 versioning and backup management.
+🔵 Intermediate Projects
+4. Automated ETL Pipeline Using Apache Airflow
 
-✅ Earn Security+ and AZ-900 Certifications
+Technologies: Python, Apache Airflow, PostgreSQL, Docker, AWS S3
 
----
+Built an automated ETL pipeline for data extraction, transformation, and loading.
+Integrated REST APIs for data ingestion.
+Automated pipeline scheduling using Apache Airflow.
+Implemented task dependencies, retries, and error logging.
+Stored processed data in PostgreSQL and AWS S3.
+5. AWS Cloud Data Warehouse
 
-# 💡 Quote
+Technologies: Python, AWS S3, AWS Glue, Amazon Athena, SQL, Parquet
 
-> **"Security is a process, not a product."** — Bruce Schneier
+Designed a cloud-based data warehouse architecture.
+Used AWS S3 for raw and processed data storage.
+Transformed datasets into Parquet format.
+Used AWS Glue for data cataloguing and ETL.
+Queried cloud datasets using Amazon Athena.
+Implemented basic cloud access management.
+🔴 Advanced Project
+6. Real-Time E-commerce Data Engineering Platform
 
----
+Technologies: Python, Apache Kafka, PySpark, AWS S3, PostgreSQL, Docker, Airflow
+
+Designed a real-time data ingestion and processing architecture.
+Generated and streamed e-commerce events using Apache Kafka.
+Processed streaming data using PySpark.
+Stored processed datasets in AWS S3.
+Used PostgreSQL for analytical data storage.
+Implemented data validation, error handling, and duplicate prevention.
+Integrated workflow orchestration and monitoring.
+📚 Currently Learning
+Advanced SQL and PostgreSQL
+Data Engineering and ETL/ELT Architecture
+Apache Airflow
+AWS Cloud Infrastructure
+Cloud Data Warehousing
+Apache Spark and Distributed Processing
+Data Security and Cloud IAM
+Infrastructure as Code
+📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=avi-9621&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avi-9621&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-⭐ Thanks for visiting my profile! If you find my work interesting, feel free to explore my repositories and connect with me.
+🔥 GitHub Streak
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=avi-9621&theme=tokyonight&hide_border=true"/>
+</p>
+
+📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avi-9621&theme=tokyo-night"/>
+</p>
+
+🎯 My Goals
+Build practical Data Engineering projects.
+Develop expertise in Python, SQL, and database management.
+Master AWS cloud services and infrastructure.
+Design automated and scalable ETL pipelines.
+Learn distributed data processing with Apache Spark.
+Explore real-time data engineering with Apache Kafka.
+Gain practical experience in Cloud Security.
+Secure an opportunity as a Data Engineer or Cloud Engineer.
+💡 My Philosophy
+"Great data engineering is not just about moving data; it's about making data reliable, accessible, and valuable."
+
+<p align="center">
+⭐ Thanks for visiting my GitHub profile!
+<br/>
+Feel free to explore my repositories and connect with me.
 </p>
