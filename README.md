@@ -77,64 +77,112 @@ Development Environment
 <img src="https://img.shields.io/badge/Boto3-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
 
-🏗️ Featured Engineering Projects
+🚀 FEATURED ENGINEERING PROJECTS
 
-Building practical solutions, from simple data ingestion to cloud-based and distributed data platforms.
+<p align="center">
+<i>A collection of practical projects focused on Data Engineering, Cloud Infrastructure, and Distributed Data Processing.</i>
+</p>
 
-01 / E-commerce Sales Data Pipeline
+🟢 01 — E-COMMERCE SALES DATA PIPELINE
 
-<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/> <img src="https://img.shields.io/badge/DOMAIN-DATA_ENGINEERING-2563EB?style=flat-square"/>
+Python • Pandas • PostgreSQL • SQL
 
-Turning raw sales records into structured business insights.
+Transforming raw e-commerce data into structured business insights.
+Developed an automated data cleaning and transformation workflow.
+Handled missing values, duplicate records, and inconsistent data.
+Designed relational database tables in PostgreSQL.
+Created analytical SQL queries for revenue and sales insights.
 
-Designed a Python-based pipeline to process raw e-commerce datasets, clean inconsistent records, and store structured information in PostgreSQL.
+<p>
+<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-DATA_ENGINEERING-2563EB?style=flat-square"/>
+</p>
 
-Engineering highlights
+🌦️ 02 — WEATHER DATA INGESTION PLATFORM
 
-Data cleaning and transformation using Pandas.
-Handling missing and duplicate records.
-Relational database design.
-SQL-based revenue and sales analysis.
+Python • REST API • JSON • PostgreSQL • AWS S3
 
-Python Pandas PostgreSQL SQL
+Collecting external data and transforming it into structured datasets.
+Integrated weather APIs for automated data collection.
+Extracted and transformed JSON responses.
+Implemented error handling and duplicate prevention.
+Stored historical weather information in PostgreSQL.
+Integrated AWS S3 for cloud storage.
 
-02 / Weather Data Ingestion Platform
+<p>
+<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-DATA_INGESTION-2563EB?style=flat-square"/>
+</p>
 
-<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/> <img src="https://img.shields.io/badge/DOMAIN-DATA_INGESTION-2563EB?style=flat-square"/>
+☁️ 03 — AWS CLOUD FILE BACKUP SYSTEM
 
-Collecting external data and transforming it into structured records.
+Python • Boto3 • Amazon S3 • IAM
 
-Built an API-based ingestion application that collects weather information, processes JSON responses, and stores historical weather data.
+Building a secure and automated cloud file storage solution.
+Automated file uploads and downloads using Boto3.
+Organised files using S3 bucket structures.
+Configured IAM permissions for controlled access.
+Explored bucket versioning and backup recovery.
 
-Engineering highlights
+<p>
+<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-CLOUD_ENGINEERING-7C3AED?style=flat-square"/>
+</p>
 
-REST API integration.
-JSON parsing and transformation.
-Error handling and duplicate prevention.
-PostgreSQL storage and AWS S3 integration.
+⚙️ 04 — AUTOMATED ETL PIPELINE
 
-Python REST API JSON PostgreSQL AWS S3
+Python • Apache Airflow • PostgreSQL • Docker • AWS S3
 
-03 / AWS Cloud File Backup System
+Automating data extraction, transformation, and loading through workflow orchestration.
+Designed scheduled ETL workflows using Airflow DAGs.
+Integrated REST APIs for data ingestion.
+Implemented task dependencies and retry mechanisms.
+Added error logging and pipeline monitoring.
+Stored processed data in PostgreSQL and AWS S3.
 
-<img src="https://img.shields.io/badge/LEVEL-BEGINNER-16A34A?style=flat-square"/> <img src="https://img.shields.io/badge/DOMAIN-CLOUD_ENGINEERING-7C3AED?style=flat-square"/>
+<p>
+<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-DATA_PIPELINES-7C3AED?style=flat-square"/>
+</p>
 
-A Python-powered file storage and backup solution on AWS.
+🏗️ 05 — AWS CLOUD DATA WAREHOUSE
 
-Developed an automated file management solution using Amazon S3 and Boto3.
+AWS S3 • AWS Glue • Amazon Athena • Python • SQL • Parquet
 
-Engineering highlights
+Designing a cloud-based data lake and analytical processing environment.
+Created raw and processed data storage layers using S3.
+Transformed datasets into Parquet format.
+Used AWS Glue for data cataloguing and ETL.
+Queried cloud datasets using Amazon Athena.
+Implemented cloud access management.
 
-Programmatic cloud file uploads and downloads.
-S3 bucket organisation and versioning.
-IAM-based access control.
-Basic cloud backup and recovery workflows.
+<p>
+<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-CLOUD_DATA_PLATFORM-7C3AED?style=flat-square"/>
+</p>
 
-Python Boto3 AWS S3 IAM
+🔥 06 — REAL-TIME E-COMMERCE DATA PLATFORM
 
-04 / Automated ETL Pipeline
+Python • Apache Kafka • PySpark • AWS S3 • PostgreSQL • Docker • Airflow
 
-<img src="https://img.shields.io/badge/LEVEL-INTERMEDIATE-2563EB?style=flat-square"/> <img src="https://img.shields.io/badge/DOMAIN-WORKFLOW_ORCHESTRATION-7C3AED?style=flat-square"/>
+Building an event-driven platform for real-time data ingestion and distributed processing.
+Generated and streamed e-commerce events using Kafka.
+Processed streaming records using PySpark.
+Stored processed datasets in AWS S3.
+Used PostgreSQL for analytical data storage.
+Implemented data validation and duplicate handling.
+Integrated workflow orchestration and monitoring.
+
+<p>
+<img src="https://img.shields.io/badge/LEVEL-ADVANCED-9333EA?style=flat-square"/>
+<img src="https://img.shields.io/badge/TYPE-REAL_TIME_DATA_ENGINEERING-2563EB?style=flat-square"/>
+</p>
+
+<p align="center">
+<b>⚡ From Python Scripts to Cloud-Based Data Platforms</b>
+<br/>
+<i>Learning by building practical engineering solutions.</i>
+</p>square"/>
 
 From manual data processing to automated workflows.
 
